@@ -3975,13 +3975,9 @@ input, select, textarea {
   font-size: 25px;
   transform: translateX(-50%);
 }
-.row-1 section .icon{
+.rows section .icon{
   top: 15px;
   right: -60px;
-}
-.row-2 section .icon{
-  top: 15px;
-  left: -60px;
 }
 .row section .details,
 .row section .bottom{
